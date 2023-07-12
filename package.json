@@ -1,0 +1,17 @@
+{
+  "name": "uniquify.js",
+  "version": "1.1.0",
+  "description": "Lightweight package to parse and remove duplicate elements of a standard JavaScript array.",
+  "main": "index.js",
+  "homepage": "https://github.com/shrysjain/uniquify.js#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shrysjain/uniquify.js.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["unique", "array", "duplicates", "remover", "uniqueify", "uniquify"],
+  "author": "shrysjain",
+  "license": "MIT"
+}
